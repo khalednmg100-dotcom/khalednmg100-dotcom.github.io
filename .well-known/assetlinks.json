@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.khalednmg100_dotcom.twa",
+      "sha256_cert_fingerprints": [
+        "8E:F2:15:9F:5B:75:B9:C5:A3:62:51:CA:34:94:CD:EA:C0:81:18:53:C9:6D:F8:EB:A7:A4:46:7D:B2:EE:7E:12",
+        "A8:A4:46:DF:F9:96:1E:DF:DB:2D:AF:70:6F:89:EC:C9:F5:BC:0E:95:FD:17:9F:57:6C:A9:71:EC:E8:19:F4:C6"
+      ]
+    }
+  }
+]
